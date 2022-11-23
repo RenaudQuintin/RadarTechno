@@ -1,4 +1,10 @@
 name,ring,quadrant,isNew,description
-.Net,Standard,Langages & Frameworks,FALSE,
-React,Standard,Langages & Frameworks,FALSE,
-Angular,Standard,Langages & Frameworks,FALSE,
+Spring Boot,Standard,Langages & Frameworks,FALSE,"<a href="""">Fiche ,</a>"
+.Net,Candidat,Langages & Frameworks,FALSE,"<a href="""">Fiche ,</a>"
+Dataiku,Candidat,Outils,FALSE,"<a href="""">Fiche ,</a>"
+Centreon,Standard,Outils,FALSE,"<a href="""">Fiche ,</a>"
+Istio,A l'étude,Plateformes et middleware,FALSE,"<a href="""">Fiche ,</a>"
+Apache,Standard,Plateformes et middleware,FALSE,"<a href="""">Fiche ,</a>"
+IIS,Standard,Plateformes et middleware,FALSE,"<a href="""">Fiche ,</a>"
+Cache Applicatif,Standard,modèles d'architecture et méthodologies,FALSE,"<a href="""">Fiche ,</a>"
+Circuit Breaker,Standard,modèles d'architecture et méthodologies,FALSE,"<a href="""">Fiche ,</a>"
