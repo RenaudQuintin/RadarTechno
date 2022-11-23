@@ -1,0 +1,37 @@
+name	ring	quadrant	isNew	description
+.Net	Standard	Langages & Frameworks	FALSE	
+React	Standard	Langages & Frameworks	FALSE	
+Angular	Standard	Langages & Frameworks	FALSE	
+Gatling	Standard	Outils	FALSE	
+Jenkins	A l'étude	Outils	FALSE	
+Gitlab	A l'étude	Outils	FALSE	
+Jira	Standard	Outils	FALSE	
+SonarQube	Standard	Outils	FALSE	
+Zabbix	Standard	Outils	FALSE	
+Grafana	A l'étude	Outils	FALSE	
+Apache	Standard	Plateformes et middleware	FALSE	
+IIS	Standard	Plateformes et middleware	FALSE	
+SQL Server	Standard	Plateformes et middleware	FALSE	
+PostgreSQL	A l'étude	Plateformes et middleware	FALSE	
+Elasticsearch	Standard	Plateformes et middleware	FALSE	
+YugabyteDB	A l'étude	Plateformes et middleware	FALSE	
+Secret Server	Standard	Plateformes et middleware	FALSE	
+Vault	Candidat	Plateformes et middleware	FALSE	
+Kafka	Standard	Plateformes et middleware	FALSE	
+KONG APIM	Standard	Plateformes et middleware	FALSE	
+ELK (Elasticserach, Logstash, Kibana)	Standard	Plateformes et middleware	FALSE	
+Cache Applicatif	Standard	modèles d'architecture et méthodologies	FALSE	
+Circuit Breaker	Standard	modèles d'architecture et méthodologies	FALSE	
+Architecture Orientée Evénements	Standard	modèles d'architecture et méthodologies	FALSE	
+CQRS	Standard	modèles d'architecture et méthodologies	FALSE	
+Design by Query	Standard	modèles d'architecture et méthodologies	FALSE	
+Microservices	Standard	modèles d'architecture et méthodologies	FALSE	
+N-Tier	Standard	modèles d'architecture et méthodologies	FALSE	
+SOA	Standard	modèles d'architecture et méthodologies	FALSE	
+Architecture Réactive	Standard	modèles d'architecture et méthodologies	FALSE	
+Producteur - Distributeur	Standard	modèles d'architecture et méthodologies	FALSE	
+API Gateway	Standard	modèles d'architecture et méthodologies	FALSE	
+Enterprise Integration Pattern	Standard	modèles d'architecture et méthodologies	FALSE	
+Agile	Standard	modèles d'architecture et méthodologies	FALSE	
+Cycle en V	Déprécié	modèles d'architecture et méthodologies	FALSE	
+DevOps	Standard	modèles d'architecture et méthodologies	FALSE	
