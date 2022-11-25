@@ -1,8 +1,8 @@
 name,ring,quadrant,isNew,description
 Angular JS,Standard,Langages & Frameworks,FALSE,"<a href=""https://angularjs.org/"">https://angularjs.org/</a>"
 React JS,Standard,Langages & Frameworks,FALSE,"<a href=""https://fr.reactjs.org/"">https://fr.reactjs.org/</a>"
-.Net 6,Standard,Langages & Frameworks,FALSE,"<a href="""">https://dotnet.microsoft.com/en-us/download/dotnet/6.0</a>"
-Java,Standard,Langages & Frameworks,FALSE,"<a href=""https://www.java.com/fr/"">https://www.java.com/fr/</a>"
+.Net 6,Standard,Langages & Frameworks,FALSE,"<a href=""https://dotnet.microsoft.com/en-us/download/dotnet/6.0"">https://dotnet.microsoft.com/en-us/download/dotnet/6.0</a>"
+Java,Standard,Langages & Frameworks,FALSE,"<a href=""https://openjdk.org/projects/jdk/17/"">https://openjdk.org/projects/jdk/17/</a>"
 Grafana,A l'étude,Outils,FALSE,"<a href=""https://grafana.com/"">https://grafana.com/</a>"
 Prometheus,A l'étude,Outils,FALSE,"<a href=""https://prometheus.io/"">https://prometheus.io/</a>"
 SonarQube,Standard,Outils,FALSE,"<a href=""https://www.sonarqube.org/"">https://www.sonarqube.org/</a>"
