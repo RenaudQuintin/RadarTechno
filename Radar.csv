@@ -1,6 +1,8 @@
 name,ring,quadrant,isNew,description
-Spring Boot,Standard,Langages & Frameworks,FALSE,"<a href="""">Fiche ,</a>"
-.Net,Candidat,Langages & Frameworks,FALSE,"<a href="""">Fiche ,</a>"
+Angular JS,Standard,Langages & Frameworks,FALSE,"<a href=""https://angularjs.org/"">https://angularjs.org/</a>"
+React JS,Standard,Langages & Frameworks,FALSE,"<a href=""https://fr.reactjs.org/"">https://fr.reactjs.org/</a>"
+.Net,Standard,Langages & Frameworks,FALSE,"<a href="""">https://dotnet.microsoft.com/en-us/download/dotnet/6.0</a>"
+Java,Standard,Langages & Frameworks,FALSE,"<a href=""https://www.java.com/fr/"">https://www.java.com/fr/</a>"
 Dataiku,Candidat,Outils,FALSE,"<a href="""">Fiche ,</a>"
 Centreon,Standard,Outils,FALSE,"<a href="""">Fiche ,</a>"
 Istio,A l'étude,Plateformes et middleware,FALSE,"<a href="""">Fiche ,</a>"
