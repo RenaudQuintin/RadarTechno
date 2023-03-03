@@ -14,6 +14,7 @@ Maven,Standard,Outils,FALSE,"<a href=""https://maven.apache.org/"">https://maven
 Apache,Standard,Plateformes et middleware,FALSE,"<a href=""https://httpd.apache.org/"">https://httpd.apache.org/</a>"
 SQL Server,Standard,Plateformes et middleware,FALSE,"<a href=""https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads"">https://www.microsoft.com/fr-fr/sql-server/sql-server-downloads</a>"
 Secret Server,Standard,Plateformes et middleware,FALSE,"<a href=""https://delinea.com/products/secret-server"">https://delinea.com/products/secret-server</a>"
+PostgreSQL,Standard,Plateformes et middleware,FALSE,"<a href=""https://www.postgresql.org/"">https://www.postgresql.org/</a>"
 Mongo DB,Standard,Plateformes et middleware,FALSE,"<a href=""https://www.mongodb.com/fr-fr"">https://www.mongodb.com/fr-fr</a>"
 IIS,Standard,Plateformes et middleware,FALSE,"<a href=""https://www.iis.net/"">https://www.iis.net/</a>"
 Elasticsearch,Standard,Plateformes et middleware,FALSE,"<a href=""https://www.elastic.co/fr/"">https://www.elastic.co/fr/</a>"
